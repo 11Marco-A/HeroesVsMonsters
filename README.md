@@ -17,7 +17,7 @@ Dans la forêt de Shorewood, un héros (humain ou nain) affronte des monstres (l
 Prérequis : le SDK .NET 10.
  
 ```bash
-git clone https://github.com/TON-PSEUDO/HeroesVsMonsters.git
+git clone https://github.com/11Marco-A/HeroesVsMonsters.git
 cd HeroesVsMonsters
 dotnet run --project HeroesVsMonsters
 ```
